@@ -1,0 +1,52 @@
+{
+    "_id": "6393cdb4624429eebc19266a",
+    "residential": {
+        "is_enabled": true,
+        "_id": "6331f2eeeac36e46fcf6c605",
+        "typeParking": "Community",
+        "plan": "625f3999fc1c008eda8ec766",
+        "city": "624b09a2c7bcefdbb8bb7ca3",
+        "address": "San Carlos",
+        "description": "lllllllllllllllllllllll",
+        "name": "kkkjhj",
+        "createdAt": "2022-09-26T18:43:58.800Z",
+        "updatedAt": "2022-09-26T18:43:58.800Z",
+        "__v": 0
+    },
+    "answers": [
+        {
+            "_id": "6393cdb4624429eebc192664",
+            "answer": "40"
+        },
+        {
+            "_id": "6393cdb4624429eebc192666",
+            "answer": "41"
+        },
+        {
+            "_id": "6393cdb4624429eebc192668",
+            "answer": "42"
+        }
+    ],
+    "assembly": {
+        "has_power": false,
+        "_id": "638678b1da7889b77a15666b",
+        "residential": "637d01f9e35faab308d73ee1",
+        "link": "www.goole.com",
+        "second_date": "2022-11-23T15:09:00.000Z",
+        "date": "2022-11-22T13:40:00.000Z",
+        "upload_order": [
+            "638678b1da7889b77a156669"
+        ],
+        "announcement_description": "reunion",
+        "announcement_name": "reunion",
+        "assembly_name": "asamblelelelel",
+        "createdAt": "2022-11-29T21:25:05.158Z",
+        "updatedAt": "2022-11-29T21:25:05.158Z",
+        "__v": 0
+    },
+    "time": 3,
+    "question": "cuanto es 55 x 2",
+    "createdAt": "2022-12-10T00:07:16.348Z",
+    "updatedAt": "2022-12-10T00:07:16.348Z",
+    "__v": 0
+}
