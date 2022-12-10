@@ -1,0 +1,189 @@
+{
+    "page": {
+        "total": 3,
+        "page": 1,
+        "lastPage": 1
+    },
+    "data": [
+        {
+            "_id": "6393ecf2be87d210cd572cb3",
+            "residential": {
+                "_id": "633f23e42a0cf61911fa975c",
+                "is_enabled": true,
+                "typeParking": "Community",
+                "plan": "625f8ff0fc1c008eda8ee39f",
+                "city": "624b09acc7bcefdbb8bb7cc3",
+                "address": "61749563",
+                "description": "ProfesionalWRWR",
+                "name": "ProfesionalWRWR",
+                "createdAt": "2022-10-06T18:52:20.821Z",
+                "updatedAt": "2022-10-06T18:52:20.821Z",
+                "__v": 0
+            },
+            "answers": [
+                {
+                    "_id": "6393ecf2be87d210cd572cad",
+                    "answer": "2",
+                    "createdAt": "2022-12-10T02:20:34.131Z",
+                    "updatedAt": "2022-12-10T02:20:34.131Z",
+                    "__v": 0
+                },
+                {
+                    "_id": "6393ecf2be87d210cd572caf",
+                    "answer": "4",
+                    "createdAt": "2022-12-10T02:20:34.226Z",
+                    "updatedAt": "2022-12-10T02:20:34.226Z",
+                    "__v": 0
+                },
+                {
+                    "_id": "6393ecf2be87d210cd572cb1",
+                    "answer": "100",
+                    "createdAt": "2022-12-10T02:20:34.296Z",
+                    "updatedAt": "2022-12-10T02:20:34.296Z",
+                    "__v": 0
+                }
+            ],
+            "assembly": {
+                "_id": "638678b1da7889b77a15666b",
+                "residential": "637d01f9e35faab308d73ee1",
+                "link": "www.goole.com",
+                "second_date": "2022-11-23T15:09:00.000Z",
+                "date": "2022-11-22T13:40:00.000Z",
+                "upload_order": [
+                    "638678b1da7889b77a156669"
+                ],
+                "announcement_description": "reunion",
+                "announcement_name": "reunion",
+                "assembly_name": "asamblelelelel",
+                "createdAt": "2022-11-29T21:25:05.158Z",
+                "updatedAt": "2022-11-29T21:25:05.158Z",
+                "__v": 0
+            },
+            "time": 3,
+            "question": "cuanto es 55 x 2",
+            "createdAt": "2022-12-10T02:20:34.369Z",
+            "updatedAt": "2022-12-10T02:20:34.369Z",
+            "__v": 0
+        },
+        {
+            "_id": "6393ead97301ef331cd6a7e5",
+            "residential": {
+                "_id": "633f23e42a0cf61911fa975c",
+                "is_enabled": true,
+                "typeParking": "Community",
+                "plan": "625f8ff0fc1c008eda8ee39f",
+                "city": "624b09acc7bcefdbb8bb7cc3",
+                "address": "61749563",
+                "description": "ProfesionalWRWR",
+                "name": "ProfesionalWRWR",
+                "createdAt": "2022-10-06T18:52:20.821Z",
+                "updatedAt": "2022-10-06T18:52:20.821Z",
+                "__v": 0
+            },
+            "answers": [
+                {
+                    "_id": "6393ead87301ef331cd6a7df",
+                    "answer": "2",
+                    "createdAt": "2022-12-10T02:11:36.821Z",
+                    "updatedAt": "2022-12-10T02:11:36.821Z",
+                    "__v": 0
+                },
+                {
+                    "_id": "6393ead87301ef331cd6a7e1",
+                    "answer": "4",
+                    "createdAt": "2022-12-10T02:11:36.894Z",
+                    "updatedAt": "2022-12-10T02:11:36.894Z",
+                    "__v": 0
+                },
+                {
+                    "_id": "6393ead87301ef331cd6a7e3",
+                    "answer": "100",
+                    "createdAt": "2022-12-10T02:11:36.964Z",
+                    "updatedAt": "2022-12-10T02:11:36.964Z",
+                    "__v": 0
+                }
+            ],
+            "assembly": {
+                "_id": "638678b1da7889b77a15666b",
+                "residential": "637d01f9e35faab308d73ee1",
+                "link": "www.goole.com",
+                "second_date": "2022-11-23T15:09:00.000Z",
+                "date": "2022-11-22T13:40:00.000Z",
+                "upload_order": [
+                    "638678b1da7889b77a156669"
+                ],
+                "announcement_description": "reunion",
+                "announcement_name": "reunion",
+                "assembly_name": "asamblelelelel",
+                "createdAt": "2022-11-29T21:25:05.158Z",
+                "updatedAt": "2022-11-29T21:25:05.158Z",
+                "__v": 0
+            },
+            "time": 3,
+            "question": "cuanto es 55 x 2",
+            "createdAt": "2022-12-10T02:11:37.035Z",
+            "updatedAt": "2022-12-10T02:11:37.035Z",
+            "__v": 0
+        },
+        {
+            "_id": "6393e98492a5d77c37011be2",
+            "residential": {
+                "_id": "633f23e42a0cf61911fa975c",
+                "is_enabled": true,
+                "typeParking": "Community",
+                "plan": "625f8ff0fc1c008eda8ee39f",
+                "city": "624b09acc7bcefdbb8bb7cc3",
+                "address": "61749563",
+                "description": "ProfesionalWRWR",
+                "name": "ProfesionalWRWR",
+                "createdAt": "2022-10-06T18:52:20.821Z",
+                "updatedAt": "2022-10-06T18:52:20.821Z",
+                "__v": 0
+            },
+            "answers": [
+                {
+                    "_id": "6393e98492a5d77c37011bdc",
+                    "answer": "2",
+                    "createdAt": "2022-12-10T02:05:56.468Z",
+                    "updatedAt": "2022-12-10T02:07:31.371Z",
+                    "__v": 0
+                },
+                {
+                    "_id": "6393e98492a5d77c37011bde",
+                    "answer": "4",
+                    "createdAt": "2022-12-10T02:05:56.541Z",
+                    "updatedAt": "2022-12-10T02:05:56.541Z",
+                    "__v": 0
+                },
+                {
+                    "_id": "6393e98492a5d77c37011be0",
+                    "answer": "100",
+                    "createdAt": "2022-12-10T02:05:56.612Z",
+                    "updatedAt": "2022-12-10T02:08:11.187Z",
+                    "__v": 0
+                }
+            ],
+            "assembly": {
+                "_id": "638678b1da7889b77a15666b",
+                "residential": "637d01f9e35faab308d73ee1",
+                "link": "www.goole.com",
+                "second_date": "2022-11-23T15:09:00.000Z",
+                "date": "2022-11-22T13:40:00.000Z",
+                "upload_order": [
+                    "638678b1da7889b77a156669"
+                ],
+                "announcement_description": "reunion",
+                "announcement_name": "reunion",
+                "assembly_name": "asamblelelelel",
+                "createdAt": "2022-11-29T21:25:05.158Z",
+                "updatedAt": "2022-11-29T21:25:05.158Z",
+                "__v": 0
+            },
+            "time": 3,
+            "question": "cuanto es 55 x 2",
+            "createdAt": "2022-12-10T02:05:56.684Z",
+            "updatedAt": "2022-12-10T02:08:10.980Z",
+            "__v": 0
+        }
+    ]
+}
